@@ -1,0 +1,5 @@
+/your-project-folder
+  |-- app.py               # Flask app code
+  |-- test_app.py          # Unit tests
+  |-- totally_not_my_privateKeys.db  # SQLite database (created when you run SQLite)
+  |-- venv/                # Virtual environment (optional but recommended)
